@@ -24,4 +24,4 @@ export default defineConfig({
     },
 });
 
-// npm run build pro git criar uma versão de produção do site
+// npm run build pro git criar uma versão de produção do site (pasta dist)
